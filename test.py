@@ -5,3 +5,6 @@ rate = input("Enter Rate:")
 pay = hrs * rate
 print("Pay:",pay)
 #print ("Fin del mensaje")
+#print ("Fin del mensaje")
+#print ("Fin del mensaje")
+#print ("Fin del mensaje")
